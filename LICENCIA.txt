@@ -1,0 +1,92 @@
+﻿SISTEMA DE GESTIÓN DE PERSONAL · NOTIFICACIÓN
+Licencia de uso  ·  versión 2.3
+
+Copyright © 2026 codezxmax. Todos los derechos reservados.
+
+
+1. QUIÉN ES EL AUTOR
+
+   Este programa —su código fuente, su ejecutable, su interfaz, sus textos,
+   su icono y su documentación— es obra de codezxmax, único titular de los
+   derechos de autor. Queda protegido por la Ley N° 17.336 sobre Propiedad
+   Intelectual de la República de Chile y por los tratados internacionales
+   sobre la materia.
+
+   El programa NO es de dominio público, NO es software libre y NO se
+   distribuye bajo ninguna licencia de código abierto.
+
+
+2. QUÉ SE PUEDE HACER
+
+   El autor concede una licencia de uso interno, personal e intransferible,
+   limitada a instalar y ejecutar el programa en los equipos de la
+   organización que lo recibió del autor, y únicamente para el fin para el
+   que fue escrito: notificar licencias médicas a las jefaturas.
+
+   La licencia se concede sobre el USO. No transfiere la propiedad del
+   programa ni ningún derecho de autor sobre él.
+
+   El instalador se publica en un repositorio público de descargas
+   (github.com/codezxmax/NotificadorJefes) con un único fin técnico: que los
+   equipos ya autorizados reciban las actualizaciones automáticas. Esa
+   disponibilidad NO amplía esta licencia: descargar el programa no autoriza
+   a usarlo a quien no pertenezca a la organización del párrafo anterior, no
+   lo convierte en gratuito ni en software libre, y el código fuente sigue
+   siendo privado.
+
+
+3. QUÉ NO SE PUEDE HACER
+
+   Sin autorización escrita y previa del autor queda prohibido:
+
+   a) copiar, publicar, distribuir, ceder, prestar, alquilar, vender o poner
+      el programa a disposición de terceros, en todo o en parte;
+   b) descompilar, desensamblar, desempaquetar el ejecutable, aplicarle
+      ingeniería inversa o intentar obtener su código fuente por cualquier
+      medio;
+   c) modificar, adaptar o traducir el programa, ni crear obras derivadas de
+      él;
+   d) quitar, alterar u ocultar los avisos de autoría, el sello de
+      integridad, la puerta de acceso por PIN o cualquier otra medida
+      tecnológica de protección;
+   e) reutilizar su código, su estructura, su interfaz o sus textos en otro
+      programa, propio o de terceros;
+   f) usar el programa, su nombre o su icono para representar o promocionar
+      un producto distinto.
+
+   Eludir o neutralizar las medidas tecnológicas de protección —el PIN, el
+   sello del código y del ejecutable, el cifrado de los datos— constituye
+   además una infracción autónoma conforme al artículo 85 N de la Ley
+   N° 17.336.
+
+
+4. DATOS DE LAS PERSONAS
+
+   El programa maneja datos personales de funcionarios (nombre, RUT, correo,
+   licencias médicas). Quien lo usa es responsable de tratarlos conforme a la
+   Ley N° 19.628 sobre Protección de la Vida Privada: no extraerlos del
+   equipo, no reenviarlos fuera de su finalidad y no dejarlos accesibles a
+   terceros. El programa los guarda cifrados con la cuenta de Windows del
+   usuario justamente para eso.
+
+
+5. SIN GARANTÍA
+
+   El programa se entrega «tal como está». El autor no garantiza que esté
+   libre de errores ni que sirva para un fin distinto de aquel para el que
+   fue escrito, y no responde por daños derivados de su uso, de su mal uso,
+   de la pérdida de datos ni de correos enviados por error. Verificar los
+   destinatarios antes de enviar es responsabilidad de quien usa el programa.
+
+
+6. VIGENCIA
+
+   La licencia de uso termina automáticamente si se incumple cualquiera de
+   las prohibiciones del punto 3. Terminada la licencia, hay que desinstalar
+   el programa y destruir las copias que existan.
+
+
+7. CONTACTO
+
+   Cualquier autorización, permiso o consulta sobre esta licencia debe
+   pedirse por escrito al autor: codezxmax.
