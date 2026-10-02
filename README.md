@@ -21,8 +21,22 @@ sobre Propiedad Intelectual de Chile y los tratados internacionales.
 
 Los equipos que ya lo tienen instalado **se actualizan solos**: el programa
 comprueba este repositorio al arrancar, descarga la versión nueva, **verifica
-su firma SHA-256** contra la publicada y la instala sin pasos manuales. Si la
-firma no coincide, no instala nada.
+su firma SHA-256** contra la publicada (y, si está activada, la **firma del
+autor** `SHA256SUMS.txt.sig`) y la instala sin pasos manuales: se cierra y se
+vuelve a abrir solo. Si la firma no coincide, no instala nada. Si una
+instalación no llega a completarse, el programa lo avisa al volver a abrirse,
+con el motivo, y ofrece reintentar.
+
+Si la actualización automática no funciona en un equipo, se puede instalar a
+mano: con el programa cerrado, descargar `SGP-Notificacion-Setup.exe` de la
+última versión y abrirlo. Los datos se conservan.
+
+## Manual de usuario
+
+Cada versión publica también su **manual de usuario** en PDF (para qué sirve,
+uso paso a paso, seguridad y actualizaciones, con capturas):
+**[Manual-de-usuario.pdf de la última versión](../../releases/latest/download/Manual-de-usuario.pdf)**.
+Dentro del programa está en **❓ Ayuda → Manual de usuario**.
 
 ### Si Windows dice «Windows protegió su PC»
 
@@ -45,6 +59,10 @@ Get-FileHash .\SGP-Notificacion-Setup.exe -Algorithm SHA256
 ```
 
 El resultado tiene que coincidir con el hash publicado.
+
+Si la versión trae `SHA256SUMS.txt.sig`, es la firma Ed25519 del autor sobre
+la etiqueta y el archivo de sumas: el programa la comprueba solo antes de
+instalar.
 
 ---
 
